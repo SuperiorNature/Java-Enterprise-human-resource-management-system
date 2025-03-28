@@ -1,0 +1,16 @@
+description PDPC006_WANGCHAO
+ port access vlan 140
+ mac-address static c025-a59a-90ad vlan 140
+ poe enable
+ port-security port-mode secure
+
+
+
+
+
+ description szrdpclx0001_zhouqiaowen
+ port access vlan 140
+ mac-address static 4cd7-179b-43d8 vlan 140
+ poe enable
+ port-security port-mode secure
+
